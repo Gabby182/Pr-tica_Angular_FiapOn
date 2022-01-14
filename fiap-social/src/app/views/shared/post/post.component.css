@@ -18,13 +18,14 @@ article>header>div>p{
 }
 
 article>header>div>span{
-  margin-top: 4px;fontsize: 14px;
+  margin-top: 4px;
+  font-size: 14px;
 }
 
 article>header>img{
   width: 70px;
 
-  cursor: pointer;
+/*  cursor: pointer;*/
 }
 
 article>main{

@@ -60,7 +60,10 @@ export class FeedComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {
+  ngOnInit(): void {}
+
+  saveComment (){
+    alert('Comentário está sendo salvo!')
   }
 
 }
